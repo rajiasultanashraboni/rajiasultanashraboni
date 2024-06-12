@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img width="50" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"> I'm Rajia Sultana Shraboni</h1>
 
-Passionate As a<strong> Software Engineer </strong>. I'm currently working on Full Stack Web Developmnt. As a Web Devleoper I use <strong>[JavaScript Language and It's Framework]</strong>.
+Passionate As a<strong> Software Engineer </strong>. I'm currently working on Full Stack Web Developmnt. As a Web Devleoper I use <strong>JavaScript Language and It's Framework</strong>.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrakibrafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrakibrafi" /> </p>
 <!-- <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
