@@ -5,7 +5,7 @@ Passionate As a<strong> Software Engineer </strong>. I'm currently working on Fu
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdurrakibrafi&label=Profile%20views&color=0e75b6&style=flat" alt="abdurrakibrafi" /> </p>
 <!-- <img align="right" alt="Coding" width="350" src="https://www.lambdatest.com/resources/images/news24.gif">
  -->
- - 🔭 I’m currently working on <strong>Mobile Application Development </strong>
+ - 🔭 I’m currently working on <strong>MERN Stack Web Development</strong>
 
  - 🌱 I’m currently working **React.js**
 
