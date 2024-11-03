@@ -48,7 +48,7 @@ I am a passionate and skilled web developer who enjoys building effective and us
 
 
 
-----------------------------
+---------------------------
 
 - 🔭 I’m currently working on <strong>MERN Stack Development</strong> 
 - 🌱 I’m currently learning <strong>React.js</strong> 
