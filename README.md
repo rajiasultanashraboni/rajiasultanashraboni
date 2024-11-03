@@ -11,7 +11,7 @@ I'm currently working on Full Stack Web Development. As a Web Developer, I use J
 ### About Me
 I am a passionate and skilled web developer who enjoys building effective and user-friendly websites using modern web technologies. With specialized expertise in **HTML, CSS, JavaScript, and React.js**, I am committed to continuously learning new technologies and improving my skills. My goal is to create web applications with user-friendly interfaces and reliable backend solutions, enhancing the overall experience for users.
 
--
+-------------------------------------------
 
 ### My Skills:
 --------------------------------
