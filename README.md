@@ -24,6 +24,11 @@ I am a passionate and skilled web developer who enjoys building effective and us
 
 ----------------------------
 
+- 🔭 I’m currently working on <strong>MERN Stack Development</strong> 
+- 🌱 I’m currently learning <strong>React.js</strong> 
+- 💬 Ask me about HTML, CSS, Tailwind, Javascript, React.js,Node.js,Firebase,MongoDb 
+- 📫 How to reach me: <strong>shraboni3103@gmail.com 
+
 ### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/rajia-sultana-shraboni-17096327b/" target="_blank" rel="noreferrer">
@@ -41,6 +46,5 @@ I am a passionate and skilled web developer who enjoys building effective and us
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rajiasultanashraboni&show_icons=true&count_private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/rajiasultanashraboni)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=rajiasultanashraboni)  
