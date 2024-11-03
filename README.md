@@ -1,6 +1,8 @@
-### Hi there 👋, I'm Rajia Sultana Shraboni <hr>
+### Hi there 👋, I'm Rajia Sultana Shraboni <hr style= border:1px solid gray>
 #### Passionate As a Web Developer . I'm currently working on Full Stack Web Developmnt. As a Web Devleoper I use JavaScript Language and It's Framework
 ![Passionate As a Web Developer . I'm currently working on Full Stack Web Developmnt. As a Web Devleoper I use JavaScript Language and It's Framework](https://media.licdn.com/dms/image/v2/D5616AQE3tOL_neJF3w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704393950168?e=1736380800&v=beta&t=DHevVgpbdlCCcc9LI26A-SDAk6TtxmJqIKnKrZRHyQU)
+
+# About me <hr>
 
 I am a passionate and skilled web developer who enjoys building effective and user-friendly websites using modern web technologies. With specialized expertise in HTML, CSS, JavaScript, and React.js, I am committed to continuously learning new technologies and improving my skills. My goal is to create web applications with user-friendly interfaces and reliable backend solutions, enhancing the overall experience for users.<hr>
 
