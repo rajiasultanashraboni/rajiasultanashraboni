@@ -30,17 +30,7 @@ I am a passionate and skilled web developer who enjoys building effective and us
 - 📫 How to reach me: <strong>shraboni3103@gmail.com 
 
 ### Connect with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/rajia-sultana-shraboni-17096327b/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="30" style="margin-right: 10px; vertical-align: middle;" />
-  </a>
-  <a href="https://www.facebook.com/rajiasultana.shraboni" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook Profile" height="30" width="30" style="margin-right: 10px; vertical-align: middle;" />
-  </a>
-  <a href="https://github.com/rajiasultanashraboni" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub Profile" height="30" width="30" style="margin-right: 10px; vertical-align: middle;" />
-  </a>
-</p>
+
 
 
 
