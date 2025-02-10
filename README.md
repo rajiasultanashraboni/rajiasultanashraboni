@@ -4,7 +4,8 @@
 #### Passionate Web Developer 
 I'm currently working on <strong>Full Stack Web Development</strong>. As a Web Developer, I use JavaScript and its frameworks to build effective, user-friendly applications.
 
-![Passionate As a Web Developer . I'm currently working on Full Stack Web Developmnt. As a Web Devleoper I use JavaScript Language and It's Framework]([https://media.licdn.com/dms/image/v2/D5616AQE3tOL_neJF3w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704393950168?e=1736380800&v=beta&t=DHevVgpbdlCCcc9LI26A-SDAk6TtxmJqIKnKrZRHyQU](https://media.licdn.com/dms/image/v2/D5616AQE3tOL_neJF3w/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1704393950168?e=1744848000&v=beta&t=L29MFMCdUO6h-Vom_XqP3TJcQ7kLx_iBxUs-fW9Lpbw))
+![Passionate As a Web Developer . I'm currently working on Full Stack Web Developmnt. As a Web Devleoper I use JavaScript Language and It's Framework](![Blue, Green, and White Modern Tech Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/aa7fd1d3-b2e1-4f3a-b2a9-f13aa35b8b0a)
+)
 
 
 
