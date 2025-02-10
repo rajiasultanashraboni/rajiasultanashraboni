@@ -4,7 +4,7 @@
 #### Passionate Web Developer 
 I'm currently working on <strong>Full Stack Web Development</strong>. As a Web Developer, I use JavaScript and its frameworks to build effective, user-friendly applications.
 
-(![Blue, Green, and White Modern Tech Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/aa7fd1d3-b2e1-4f3a-b2a9-f13aa35b8b0a)
+(![Blue, Green, and White Modern Tech Web Developer LinkedIn Banner](https://github.com/user-attachments/assets/aa7fd1d3-b2e1-4f3a-b2a9-f13aa35b8b0a))
 
 
 
