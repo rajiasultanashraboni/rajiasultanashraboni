@@ -26,9 +26,11 @@ I am a passionate and skilled web developer who enjoys building effective and us
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">      
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="border: 2px solid gray; padding: 5px; margin: 5px; border-radius: 5px;"/>    
   </a>    
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">      
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40" style="border: 2px solid gray; padding: 5px; margin: 5px; border-radius: 5px;"/>    
-  </a>    
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" 
+         alt="tailwind" width="40" height="40" 
+         style="border: 2px solid gray; padding: 5px; margin: 5px; border-radius: 5px;"/>    
+</a>    
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">      
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="border: 2px solid gray; padding: 5px; margin: 5px; border-radius: 5px;"/>    
   </a>    
